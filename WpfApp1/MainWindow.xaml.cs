@@ -44,16 +44,16 @@ namespace WpfApp1
             rctTeglalap.Fill = new SolidColorBrush(Color.FromRgb(Convert.ToByte(sliPiros.Value), Convert.ToByte(sliZold.Value), Convert.ToByte(sliKek.Value)));
         }
 
-        private void btnRogzit_Click(object sender)
+        private void btnRogzit_Click(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
 
         }
-        private void btnTorol_Click(object sender)
+        private void btnTorol_Click(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
 
         }
 
-        private void btnUrit_Click(object sender)
+        private void btnUrit_Click(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
 
         }
