@@ -1,0 +1,42 @@
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\Documents\Mester Lajos\2023-01-24\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+d:\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+d:\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+d:\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+d:\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+d:\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+d:\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
